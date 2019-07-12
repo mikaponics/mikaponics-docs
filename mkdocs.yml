@@ -1,0 +1,5 @@
+site_name: Mikaponics
+nav:
+    - Home: index.md
+    - Remote Service: remote.md
+theme: readthedocs
